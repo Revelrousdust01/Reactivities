@@ -1,0 +1,11 @@
+C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\Domain\obj\Debug\net8.0\ref\Domain.dll
