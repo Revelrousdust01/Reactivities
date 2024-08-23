@@ -162,3 +162,4 @@ C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities
 C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\API\obj\Debug\net8.0\API.pdb
 C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\API\obj\Debug\net8.0\API.sourcelink.json
