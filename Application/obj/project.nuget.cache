@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "dcNan9f0HiM=",
+  "dgSpecHash": "eN5S4G7XnF2mmTvWcucPHT5NBEwmnVhzKIao6bZZ4YOuKrk6K9RsNYsjxEA7JVZCQJ96ogl9SMxY4TupYtzMIQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Christian Politis\\OneDrive\\Desktop\\Git Repos\\TryCatchLearn\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Christian Politis\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Christian Politis\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Christian Politis\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\Christian Politis\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Christian Politis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Christian Politis\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.0-preview.7.24405.3\\microsoft.data.sqlite.core.9.0.0-preview.7.24405.3.nupkg.sha512",
     "C:\\Users\\Christian Politis\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-preview.7.24405.3\\microsoft.entityframeworkcore.9.0.0-preview.7.24405.3.nupkg.sha512",
     "C:\\Users\\Christian Politis\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-preview.7.24405.3\\microsoft.entityframeworkcore.abstractions.9.0.0-preview.7.24405.3.nupkg.sha512",
