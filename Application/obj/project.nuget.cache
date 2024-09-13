@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "eN5S4G7XnF2mmTvWcucPHT5NBEwmnVhzKIao6bZZ4YOuKrk6K9RsNYsjxEA7JVZCQJ96ogl9SMxY4TupYtzMIQ==",
+  "dgSpecHash": "DY24ocfHZMiWQzZoCQmk1kWerWOoGOt3sLKYBfGdxJGzeYrb2lsfH2RwG5M5SeDGuotqSCIDPvSasYfAfRUhPA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Christian Politis\\OneDrive\\Desktop\\Git Repos\\TryCatchLearn\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Christian Politis\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Christian Politis\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Christian Politis\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Christian Politis\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Christian Politis\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Christian Politis\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
     "C:\\Users\\Christian Politis\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Christian Politis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
