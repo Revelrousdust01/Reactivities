@@ -7,6 +7,7 @@ import ActivityDetails from "../../Features/Activities/details/ActivityDetails.t
 import TestErrors from "../../Features/errors/TestError.tsx";
 import NotFound from "../../Features/errors/NotFound.tsx";
 import ServerError from "../../Features/errors/ServerError.tsx";
+import LoginForm from "../../Features/users/LoginForm.tsx";
 
 export const routes: RouteObject[] = [
     {
@@ -18,6 +19,7 @@ export const routes: RouteObject[] = [
             {path: 'activities/:id', element: <ActivityDetails />},
             {path: 'createActivity', element: <ActivityForm key={'create'}/>},
             {path: 'manage/:id', element: <ActivityForm key={'manage'}/>},
+            {path: 'login', element: <LoginForm/>},
             {path: 'errors', element: <TestErrors/>},
             {path: 'not-found', element: <NotFound/>},
             {path: 'server-error', element: <ServerError/>},
