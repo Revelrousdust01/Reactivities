@@ -187,3 +187,5 @@ C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities
 C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\API\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Christian Politis\OneDrive\Desktop\Git Repos\TryCatchLearn\Reactivities\API\bin\Debug\net8.0\Infrastructure.pdb
